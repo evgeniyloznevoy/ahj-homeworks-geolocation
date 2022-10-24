@@ -1,4 +1,4 @@
-import Modal from './Modal.js';
+import Modal from '../Modal.js';
 
 test('valid form', () => {
   const modal = new Modal();
